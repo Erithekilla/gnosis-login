@@ -3,16 +3,16 @@ function Login(){
     return(
         <>
         <div class="cadastro">
-        <h1>Gnosis</h1>
-        <p>Sistema de vida</p>
+        <h1>GNOSIS</h1>
+        <p>SISTEMA DE VIDA</p>
             <Input
-                title="Email" 
+                title="EMAIL" 
                 type="text"
                 placeholder="seu@email.com"
             ></Input>
 
             <Input
-                title="Senha" 
+                title="SENHA" 
                 type="password"
                 placeholder="..."
             ></Input>
